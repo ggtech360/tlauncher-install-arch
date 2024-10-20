@@ -1,0 +1,17 @@
+[Desktop Entry]
+
+Type=Application
+
+Name=Minecraft
+
+Comment=Minecraft Launcher
+
+Path=/home/greatgamer/TLauncher.v10
+
+Exec=java -jar TLauncher.jar
+
+Icon=Minecraft
+
+Terminal=false
+
+Categories=Games

@@ -6,7 +6,7 @@ Name=Minecraft
 
 Comment=Minecraft Launcher
 
-Path=/home/greatgamer/TLauncher.v10
+Path=/home/greatgamer/tlauncher-install-arch/TLauncher.v10
 
 Exec=java -jar TLauncher.jar
 
